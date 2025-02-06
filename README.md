@@ -9,3 +9,9 @@ Hail을 이용한 전장유전체 데이터 분석 튜토리얼에 오신 여러
 
 
 ## 2. CWAS을 활용한 noncoding mutation 분석 실습 
+
+CWAS를 이용한 전장유전체 noncoding mutation 분석 튜토리얼입니다.
+
+본 튜토리얼을 구동하기 위해선, 최소 2코어 CPU와 8Gb 메모리 이상의 컴퓨터가 필요합니다. 튜토리얼의 데이터는 [An et al., Science, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6432922/) 논문의 데이터입니다.
+
+튜토리얼 구글 코랩 버전 [링크](https://colab.research.google.com/drive/1Jx9MFekiuwe2xcNvjjvSO6RKX1Sm3Xbi?usp=sharing).
